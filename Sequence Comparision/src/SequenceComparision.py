@@ -3,7 +3,7 @@
 #UNCC ID:     800804731
 #Email:       jvujjini@uncc.edu
 
-'''This Program is decided to compare the similarity of two DNA Sequences
+'''This Program is designed to compare the similarity of two DNA Sequences
 which can be done using two methods called Normalized Edit Distance and Longest
 Common Subsequence(LCS)'''
 
